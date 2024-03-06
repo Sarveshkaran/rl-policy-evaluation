@@ -46,9 +46,9 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 <img width="350" src="https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/e663bd3d-fc85-41c3-9a5c-dffa57eae250">
 
 ### Program :
-Developed By : **Virgil Jovita A**
+Developed By : **Sarveshkaran vk**
 </br>
-Register No. : **212221240062**
+Register No. : **212221230089**
 ```py
 def policy_evaluation(pi, P, gamma=0.9, theta=1e-10):
     prev_V = np.zeros(len(P), dtype=np.float64)
